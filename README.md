@@ -1,52 +1,45 @@
-<!--
-Hey, thanks for using the awesome-readme-template template.  
-If you have any enhancements, then fork this project and create a pull request 
-or just open an issue with the label "enhancement".
-
-Don't forget to give this project a star for additional support ;)
-Maybe you can mention me or this repo in the acknowledgements too
--->
 <div align="center">
 
-  <img src="assets/logo.png" alt="logo" width="200" height="auto" />
-  <h1>Awesome Readme Template</h1>
+  <img src="assets/ESGimage.png" alt="logo" width="200" height="auto" />
+  <h1>ESG Analytics Report</h1>
   
   <p>
-    <a href="https://lookerstudio.google.com/reporting/4312b149-95c6-41bd-bea9-4d82de7b313d/page/77biE"> Link to Looker Studio report 
+    <a href="https://lookerstudio.google.com/reporting/4312b149-95c6-41bd-bea9-4d82de7b313d/page/77biE">
+    Link to Looker Studio report 
     </a>
   </p>
-  
-  
 <!-- Badges -->
 <p>
   <a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/Louis3797/awesome-readme-template" alt="contributors" />
+    <img src="https://img.shields.io/github/contributors/billtdavis/ESG_analytics_project" alt="contributors" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template" alt="last update" />
+    <img src="https://img.shields.io/github/last-commit/billtdavis/ESG_analytics_project" alt="last update" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/network/members">
-    <img src="https://img.shields.io/github/forks/Louis3797/awesome-readme-template" alt="forks" />
+  <a href="https://github.com/billtdavis/ESG_analytics_project/network/members">
+    <img src="https://img.shields.io/github/forks/billtdavis/ESG_analytics_project" alt="forks" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/stargazers">
-    <img src="https://img.shields.io/github/stars/Louis3797/awesome-readme-template" alt="stars" />
+  <a href="https://github.com/billtdavis/ESG_analytics_project/stargazers">
+    <img src="https://img.shields.io/github/stars/billtdavis/ESG_analytics_project" alt="stars" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/issues/">
-    <img src="https://img.shields.io/github/issues/Louis3797/awesome-readme-template" alt="open issues" />
+  <a href="https://github.com/billtdavis/ESG_analytics_project/issues/">
+    <img src="https://img.shields.io/github/issues/billtdavis/ESG_analytics_project" alt="open issues" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/Louis3797/awesome-readme-template.svg" alt="license" />
+  <a href="https://github.com/billtdavis/ESG_analytics_project/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/billtdavis/ESG_analytics_project.svg" alt="license" />
   </a>
 </p>
    
 <h4>
-    <a href="https://github.com/Louis3797/awesome-readme-template/">View Demo</a>
+    <a href="https://github.com/billtdavis/ESG_analytics_project/">View Project</a>
   <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template">Documentation</a>
+    <a href="https://github.com/billtdavis/ESG_analytics_project/wiki">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Report Bug</a>
+    <a href="https://github.com/billtdavis/ESG_analytics_project/issues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Request Feature</a>
+    <a href="https://github.com/billtdavis/ESG_analytics_project/issues/">Request Feature</a>
+  <span> · </span>
+    <a href="https://github.com/billtdavis/ESG_analytics_project/issues/">Leave Feedback</a>
   </h4>
 </div>
 
@@ -56,6 +49,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 # :notebook_with_decorative_cover: Table of Contents
 
 - [:notebook\_with\_decorative\_cover: Table of Contents](#notebook_with_decorative_cover-table-of-contents)
+  - [:gem: Acknowledgements](#gem-acknowledgements)
   - [:star2: About the Project](#star2-about-the-project)
     - [:camera: Screenshots](#camera-screenshots)
     - [:space\_invader: Tech Stack](#space_invader-tech-stack)
@@ -75,7 +69,18 @@ Maybe you can mention me or this repo in the acknowledgements too
   - [:grey\_question: FAQ](#grey_question-faq)
   - [:warning: License](#warning-license)
   - [:handshake: Contact](#handshake-contact)
-  - [:gem: Acknowledgements](#gem-acknowledgements)
+
+
+<!-- Acknowledgments -->
+## :gem: Acknowledgements
+
+Use this section to mention useful resources and libraries that you have used in your projects.
+ - [README Template](https://github.com/Louis3797/awesome-readme-template)
+ - [Shields.io Icons](https://shields.io/)
+ - Alan
+ - [Bill](https://github.com/billtdavis)
+ - Radhika
+ - Sarah
 
   
 
@@ -288,24 +293,14 @@ Please read the [Code of Conduct](https://github.com/Louis3797/awesome-readme-te
 <!-- License -->
 ## :warning: License
 
-Distributed under the no License. See LICENSE.txt for more information.
+Distributed under the GNU General Public License v3.0. See LICENSE.txt for more information.
 
 
 <!-- Contact -->
 ## :handshake: Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template)
+[Project Link](https://github.com/billtdavis/ESG_analytics_project)
 
 
-<!-- Acknowledgments -->
-## :gem: Acknowledgements
-
-Use this section to mention useful resources and libraries that you have used in your projects.
-
- - [Shields.io](https://shields.io/)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
- - [Readme Template](https://github.com/othneildrew/Best-README-Template)
 
