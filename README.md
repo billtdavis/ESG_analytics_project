@@ -12,7 +12,8 @@ Maybe you can mention me or this repo in the acknowledgements too
   <h1>Awesome Readme Template</h1>
   
   <p>
-    An awesome README template for your projects! 
+    <a href="https://lookerstudio.google.com/reporting/4312b149-95c6-41bd-bea9-4d82de7b313d/page/77biE"> Link to Looker Studio report 
+    </a>
   </p>
   
   
@@ -54,26 +55,27 @@ Maybe you can mention me or this repo in the acknowledgements too
 <!-- Table of Contents -->
 # :notebook_with_decorative_cover: Table of Contents
 
-- [About the Project](#star2-about-the-project)
-  * [Screenshots](#camera-screenshots)
-  * [Tech Stack](#space_invader-tech-stack)
-  * [Features](#dart-features)
-  * [Color Reference](#art-color-reference)
-  * [Environment Variables](#key-environment-variables)
-- [Getting Started](#toolbox-getting-started)
-  * [Prerequisites](#bangbang-prerequisites)
-  * [Installation](#gear-installation)
-  * [Running Tests](#test_tube-running-tests)
-  * [Run Locally](#running-run-locally)
-  * [Deployment](#triangular_flag_on_post-deployment)
-- [Usage](#eyes-usage)
-- [Roadmap](#compass-roadmap)
-- [Contributing](#wave-contributing)
-  * [Code of Conduct](#scroll-code-of-conduct)
-- [FAQ](#grey_question-faq)
-- [License](#warning-license)
-- [Contact](#handshake-contact)
-- [Acknowledgements](#gem-acknowledgements)
+- [:notebook\_with\_decorative\_cover: Table of Contents](#notebook_with_decorative_cover-table-of-contents)
+  - [:star2: About the Project](#star2-about-the-project)
+    - [:camera: Screenshots](#camera-screenshots)
+    - [:space\_invader: Tech Stack](#space_invader-tech-stack)
+    - [:dart: Features](#dart-features)
+    - [:art: Color Reference](#art-color-reference)
+    - [:key: Environment Variables](#key-environment-variables)
+  - [:toolbox: Getting Started](#toolbox-getting-started)
+    - [:bangbang: Prerequisites](#bangbang-prerequisites)
+    - [:gear: Installation](#gear-installation)
+    - [:test\_tube: Running Tests](#test_tube-running-tests)
+    - [:running: Run Locally](#running-run-locally)
+    - [:triangular\_flag\_on\_post: Deployment](#triangular_flag_on_post-deployment)
+  - [:eyes: Usage](#eyes-usage)
+  - [:compass: Roadmap](#compass-roadmap)
+  - [:wave: Contributing](#wave-contributing)
+    - [:scroll: Code of Conduct](#scroll-code-of-conduct)
+  - [:grey\_question: FAQ](#grey_question-faq)
+  - [:warning: License](#warning-license)
+  - [:handshake: Contact](#handshake-contact)
+  - [:gem: Acknowledgements](#gem-acknowledgements)
 
   
 
